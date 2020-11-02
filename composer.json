@@ -1,0 +1,16 @@
+{
+    "name": "root/pipoca-project",
+    "description": "pipoca",
+    "authors": [
+        {
+            "name": "thiiagovieir",
+            "email": "thiiagovieir@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "BananaProject\\" : "src/"
+        }
+    },
+    "require": {}
+}
